@@ -17,5 +17,6 @@ xcuserdata/
 
 # Generated
 artifacts/
+dist/
 *.zip
 *.ipa
