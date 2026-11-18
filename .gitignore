@@ -1,0 +1,21 @@
+# SwiftPM
+.build/
+.swiftpm/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+build/
+DerivedData/
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# macOS
+.DS_Store
+*.swp
+
+# Generated
+artifacts/
+*.zip
+*.ipa
